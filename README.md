@@ -28,9 +28,10 @@ I have included the slides for a short 5 minute 'lightning' talk I gave to Cours
 - **XCS229iiProjectTalkForStanford15May2021StopPress.pdf**
 
 I have also included a starter Jupyter notebook for processing the Machine Learning (ML) dataset called 
-`ClassifyingComputerProcessesDarpaOpTCBaselineModel.ipynb`.
 
-Unfortunately, I am not currently able to release the derived dataset `darpa_data_revised` (but you can make your own from the raw data on github/google drive - details of the ETL pipeline are given in the experimental protocol and final paper).
+- `ClassifyingComputerProcessesDarpaOpTCBaselineModel.ipynb`.
+
+Unfortunately, I am not currently able to release the derived dataset `darpa_data_revised` (but you can make your own from the raw data on github/google drive - details of the Extract, Transform and Load (ETL) pipeline are given in the experimental protocol and final paper).
 
 ## GitHub
 
