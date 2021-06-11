@@ -13,7 +13,7 @@ This repo contains the deliverables (documents) for my Machine Learning (ML) pro
 
 - **FinalPaperClassifyingComputerProcessesAndrewVealFINAL.pdf** is the final deliverable - the final paper
 
-It also contains the guidance documents for each deliverable - what the distribution of marks is and what each section of the document should cover:
+It also contains the guidance documents for each deliverable - what the distribution of marks is and what each section of the document should cover - these were written by Sebastian Hurubaru and are shared with his permission:
 
 - **xcs229ii_project_proposal.pdf** 
 
@@ -27,9 +27,13 @@ I have included the slides for a short 5 minute 'lightning' talk I gave to Cours
 
 - **XCS229iiProjectTalkForStanford15May2021StopPress.pdf**
 
-I have also included a starter Jupyter notebook for processing the Machine Learning (ML) dataset called 
+I have also included a few starter Jupyter notebooks for processing the Machine Learning (ML) dataset:
 
-- `ClassifyingComputerProcessesDarpaOpTCBaselineModel.ipynb`.
+- `ClassifyingComputerProcessesDarpaOpTCBaselineModel.ipynb` - basic starter notebook
+
+- `CCPDOpTC_labels.ipynb` - basic notebook for navigating the labels.csv
+
+The ground truth `labels.csv` file contains the details for the malicious events derived from the _OpTC Red Team Ground Truth_ [6].
 
 Unfortunately, I am not currently able to release the derived dataset `darpa_data_revised` (but you can make your own from the raw data on github/google drive - details of the Extract, Transform and Load (ETL) pipeline are given in the experimental protocol and final paper).
 
